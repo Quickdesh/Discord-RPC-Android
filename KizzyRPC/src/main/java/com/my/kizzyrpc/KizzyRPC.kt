@@ -31,7 +31,7 @@ import javax.net.ssl.SSLParameters
 // Constant for Rich Presence operation code
 private const val RICH_PRESENCE_OP_CODE = 3
 // Constant for logging tag
-private const val TAG = "KizzyRPC"
+private const val TAG = "DiscordRPC"
 /**
  * KizzyRPC is a class that implements Discord Rich Presence functionality using WebSockets.
  * @param token discord account token
