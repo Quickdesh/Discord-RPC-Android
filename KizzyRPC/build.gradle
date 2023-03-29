@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.my.kizzyrpc'
+    namespace 'com.my.discordrpc'
     compileSdk 33
 
     defaultConfig {
-        minSdk 27
+        minSdk 23
         targetSdk 33
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
